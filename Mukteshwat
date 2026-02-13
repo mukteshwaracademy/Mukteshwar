@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mukteshwar Academy | Sewala Kalan Majara</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #800000;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #002147;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+            font-weight: bold;
+        }
+        section {
+            padding: 30px;
+            background: white;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #800000;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        h2 {
+            color: #800000;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Mukteshwar Academy</h1>
+    <p>Sewala Kalan Majara</p>
+    <p><i>Where Discipline Meets Excellence</i></p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#academics">Academics</a>
+    <a href="#admissions">Admissions</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Mukteshwar Academy is committed to providing quality education from Pre-Primary to Class 10. 
+    We focus on academic excellence, discipline, moral values and holistic development.</p>
+</section>
+
+<section id="academics">
+    <h2>Academics</h2>
+    <p>Classes Offered:</p>
+    <ul>
+        <li>Pre-Primary (Playgroup to UKG)</li>
+        <li>Primary (Class 1–5)</li>
+        <li>Middle School (Class 6–8)</li>
+        <li>Secondary (Class 9–10)</li>
+    </ul>
+</section>
+
+<section id="admissions">
+    <h2>Admissions Open</h2>
+    <p>Admissions are open for the new academic session.</p>
+    <p>Please visit the school office with required documents.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Mukteshwar Academy</p>
+    <p>Sewala Kalan Majara</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Email: yourschool@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Mukteshwar Academy | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
